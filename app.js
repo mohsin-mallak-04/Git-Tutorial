@@ -5,4 +5,13 @@ const items = [1,[2,[3,[4]]]]
 const newT= _.flattenDeep(items);
 console.log(newT);
 /*h
-Version 4h*/
+Version 
+
+
+
+Illlllooooo
+
+
+
+
+4h*/
